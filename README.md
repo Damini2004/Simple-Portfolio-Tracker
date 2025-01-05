@@ -176,4 +176,18 @@ Run the React development server: npm start
 
 The frontend will be available at http://localhost:3000.
 
+---
 
+---
+### **Deployment Link**
+
+1. Frontend
+```bash
+https://starlit-moxie-484b81.netlify.app/
+````
+
+2. Backend
+```bash
+https://stockmarket-latest.onrender.com
+````
+---
